@@ -1,6 +1,6 @@
 spring:
   application:
-    name: microservicio-saldo-cuenta
+    name: microservicio-tarjeta-debito
   cloud:
     config:
       enabled: true
